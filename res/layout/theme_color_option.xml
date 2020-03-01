@@ -25,5 +25,5 @@
         android:layout_width="@dimen/component_color_chip_container_size"
         android:layout_height="@dimen/component_color_chip_container_size"
         android:layout_gravity="center"
-        android:src="@drawable/color_chip"/>
+        android:src="@drawable/color_chip_with_ring"/>
 </FrameLayout>
